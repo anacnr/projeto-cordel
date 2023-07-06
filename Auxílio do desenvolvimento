@@ -1,0 +1,4 @@
+Esta página foi baseada no desafio 12 do Curso em Vídeo,que está no GitHub do professor Gustavo Guanabara. Eu assisti os vídeos ensinando a montar esta página no canal do Curso em Vídeo no Yout Tube.
+O professor usou o cordel do autor Milton Duarte que está no site Recanto das Letras.
+Neste desafio o professor ensinou a colocar a altura e largura para ajudar na responsividade das letras que foi a medida vh na altura e vw para largura. E a medida min-width para o body. Eu também coloquei o vh no footer para ajudar a deixar as letras dentro do background preto quando a tela diminuir.
+Eu não consegui ageitar as imagens direito mas pretendo posteriormente atualizar este site.
